@@ -1,0 +1,2 @@
+# PayPal
+Payment of coins
